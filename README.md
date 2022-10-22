@@ -1,4 +1,4 @@
-﻿# bhavyarajgupta
+﻿# bhavya raj gupta
 ### Hi there 👋
 #### I'm a Software Developer
 
