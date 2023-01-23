@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 📫 Reach me: [Linkedin.com/bhavya](https://www.linkedin.com/in/bhavya-raj-gupta/)
 
-[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyarajgupta&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000)](https://github.com/bhavyarajgupta)
+[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyarajgupta&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000)](https://github.com/bhavyarajgupta)
 [![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyarajgupta&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php)](https://github.com/bhavyarajgupta)
 
 
